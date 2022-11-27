@@ -1,0 +1,15 @@
+@relation health
+
+@attribute chestpain {yes, no}
+@attribute exercises {yes, no}
+@attribute smokes {yes, no}
+@attribute male {yes, no}
+@attribute heartattack {heartattack_yes, heartattack_no}
+
+@DATA
+yes,yes,no,yes,heartattack_yes
+yes,no,yes,yes,heartattack_yes
+no,no,yes,no,heartattack_yes
+no,yes,no,yes,heartattack_no
+yes,yes,yes,no,heartattack_yes
+no,yes,yes,yes,heartattack_no
