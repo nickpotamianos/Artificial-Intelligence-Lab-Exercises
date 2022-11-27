@@ -1,0 +1,15 @@
+digraph G {
+bgcolor="transparent"
+node [shape=box];
+1 [label="Chest Pain?"];
+2 [label="Yes?"];
+3 [label="Heart Attack = Yes"];
+4 [label="No?"];
+5 [label="?"];
+
+1 -> 2;
+1 -> 4;
+2 -> 3;
+4 -> 5;
+
+}

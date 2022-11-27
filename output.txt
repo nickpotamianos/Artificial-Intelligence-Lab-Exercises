@@ -1,0 +1,1 @@
+dot -Tsvg graphx.dot -o graphx.svg
