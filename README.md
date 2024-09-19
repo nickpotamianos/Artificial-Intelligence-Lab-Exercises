@@ -1,6 +1,6 @@
 # Artificial Intelligence Laboratory Exercises
 
-This repository contains reports and exercises related to **Artificial Intelligence** completed by Angelos Nikolaos Potamianos during the academic year 2022-2023 at the University of Patras.
+This repository contains reports and exercises related to **Artificial Intelligence** completed by me during the academic year 2022-2023 at the University of Patras.
 
 ## Table of Contents
 - [Overview](#overview)
