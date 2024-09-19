@@ -24,7 +24,7 @@ This exercise compares several AI algorithms, such as BFS, A*, and BestFS, in so
 - Evaluation of algorithms' performance in terms of optimality and speed.
 - A detailed comparison of solution lengths, number of steps, and execution times.
 
-📄 [Exercise 1 Report](./exercise_1_report.pdf)
+📄 [Exercise 1 Report](./Exercise 1/exercise_1_report.pdf)
 
 ### Exercise 2 - Decision Trees and Information Gain
 
