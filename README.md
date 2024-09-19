@@ -24,7 +24,7 @@ This exercise compares several AI algorithms, such as BFS, A*, and BestFS, in so
 - Evaluation of algorithms' performance in terms of optimality and speed.
 - A detailed comparison of solution lengths, number of steps, and execution times.
 
-📄 [Exercise 1 Report](./Exercise_1/exercise_1_report.pdf)
+📄 [Exercise 1 Report](./Exercise-1/exercise_1_report.pdf)
 
 ### Exercise 2 - Decision Trees and Information Gain
 
@@ -33,7 +33,7 @@ In this exercise, decision trees are built using information gain to classify he
 - Construction of a decision tree using the Weka tool for visualization.
 - Derivation of decision rules based on the constructed tree.
 
-📄 [Exercise 2 Report](./ΑΣΚΗΣΗ2_ΠΟΤΑΜΙΑΝΟΣ_1084537.pdf)
+📄 [Exercise 2 Report](./Exercise-2/ΑΣΚΗΣΗ2_ΠΟΤΑΜΙΑΝΟΣ_1084537.pdf)
 
 ### Exercise 3 - Elevator Problem using Logic Programming
 
@@ -42,7 +42,7 @@ This exercise focuses on modeling the behavior of an elevator system using logic
 - Implementation of rules for elevator movement, passenger pickup, and drop-off.
 - Solutions for optimizing elevator operations based on logic.
 
-📄 [Exercise 3 Report](./askisi3_potamianos_1084537.pdf)
+📄 [Exercise 3 Report](./Exercise-3/askisi3_potamianos_1084537.pdf)
 
 ## Author
 
